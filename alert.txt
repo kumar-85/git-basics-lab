@@ -1,1 +1,2 @@
+Device alert: offline yes
 Device alert: offline No
